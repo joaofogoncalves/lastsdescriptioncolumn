@@ -1,0 +1,5 @@
+<l:dependencies xmlns:l='licenses'>
+  <l:dependency name='Last Success Description Column' groupId='org.jenkins-ci.plugins' artifactId='lastsuccessdescriptioncolumn' version='1.1-SNAPSHOT' url='http://wiki.hudson-ci.org/display/HUDSON/Last+Success+Description+Column+Plugin'>
+    <l:description />
+  </l:dependency>
+</l:dependencies>

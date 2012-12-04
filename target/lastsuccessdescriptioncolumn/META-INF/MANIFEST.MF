@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: jgoncalves
+Created-By: Apache Maven
+Build-Jdk: 1.6.0_37
+Extension-Name: lastsuccessdescriptioncolumn
+Implementation-Title: lastsuccessdescriptioncolumn
+Implementation-Version: 1.1-SNAPSHOT
+Group-Id: org.jenkins-ci.plugins
+Short-Name: lastsuccessdescriptioncolumn
+Long-Name: Last Success Description Column
+Url: http://wiki.hudson-ci.org/display/HUDSON/Last+Success+Description
+ +Column+Plugin
+Plugin-Version: 1.1-SNAPSHOT (private-12/04/2012 11:05-jgoncalves)
+Hudson-Version: 1.410
+Jenkins-Version: 1.410
+Plugin-Developers: Stephen Connolly:stephenconnolly:stephenc at apache
+
